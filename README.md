@@ -1,4 +1,4 @@
-#Projeto de Banco de Dados Escolar
+Projeto de Banco de Dados Escolar
 Este projeto define e manipula um banco de dados escolar fictício utilizando MySQL. Ele inclui tabelas para armazenar informações sobre pessoas, alunos, professores, matérias, turmas e matrículas, além de realizar diversas operações CRUD (Create, Read, Update, Delete) para gerenciar esses dados.
 
 Estrutura do Banco de Dados
